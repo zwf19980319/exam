@@ -65,7 +65,7 @@
 #### 进入相册
 ![步骤2](https://images.gitee.com/uploads/images/2019/1211/015359_4ec05bed_1648159.png "步骤2.png")
 #### 识别成功
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/022125_504ae6ac_1648159.png "步骤3.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/022251_33cd1c0d_1648159.png "步骤3.png")
 ## 交互及界面设计
 ## 信息设计
 ## 原型文档
