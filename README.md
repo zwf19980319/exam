@@ -63,12 +63,12 @@
 ********
 # 原型
 ## 交互及界面设计
-#### 产品APP的拍照界面
-![步骤１](https://images.gitee.com/uploads/images/2019/1211/014610_f48bb2a9_1648159.png "1111步骤.png")
-#### 进入相册
+![步骤一](https://images.gitee.com/uploads/images/2019/1211/102134_a2712b28_1648159.png "步骤1.png")
 ![步骤2](https://images.gitee.com/uploads/images/2019/1211/015359_4ec05bed_1648159.png "步骤2.png")
-#### 识别成功
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/022251_33cd1c0d_1648159.png "步骤3.png")![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/101305_8d8b760f_1648159.png "点击市场.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/022251_33cd1c0d_1648159.png "步骤3.png")
+![语音](https://images.gitee.com/uploads/images/2019/1211/105512_a78a2f54_1648159.png "语音识别.png")
+![查看市场信息](https://images.gitee.com/uploads/images/2019/1211/105159_32e983af_1648159.png "市场.png")
+![步骤4](https://images.gitee.com/uploads/images/2019/1211/105001_0e837487_1648159.png "步骤4.png")
 
 ## 信息设计
 ## 原型文档
