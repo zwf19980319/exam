@@ -64,7 +64,6 @@
 # 原型
 ## 交互及界面设计
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/120556_3f3157f1_1648159.png "信息设计.png")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/110158_ec5660e2_1648159.png "界面设计.png")
 
 ## 信息设计
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/123213_4fa5b60b_1648159.png "信息设计1.png")
