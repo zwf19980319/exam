@@ -63,9 +63,13 @@
 ********
 # 原型
 ## 交互及界面设计
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/120556_3f3157f1_1648159.png "信息设计.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/110158_ec5660e2_1648159.png "界面设计.png")
 
 ## 信息设计
+![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/123213_4fa5b60b_1648159.png "信息设计1.png")
+![市场](https://images.gitee.com/uploads/images/2019/1211/120036_4c2efb79_1648159.png "界面设计2.png")
+![信息设计2](https://images.gitee.com/uploads/images/2019/1211/123040_ebfdc222_1648159.png "信息设计2.png")
 ## 原型文档
 ## 口头操作说明
 ********
