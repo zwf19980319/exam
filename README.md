@@ -9,7 +9,7 @@
 |Designer|张玮锋|
 
 # 目录
-[TOC]:产品定位
+
 
 # 产品定位
 本产品适宜年龄16+岁的人使用，是一款用于扫描车型，帮助车主安全驾驶的APP
@@ -71,7 +71,7 @@
 ![市场](https://images.gitee.com/uploads/images/2019/1211/120036_4c2efb79_1648159.png "界面设计2.png")
 ![信息设计2](https://images.gitee.com/uploads/images/2019/1211/123040_ebfdc222_1648159.png "信息设计2.png")
 ## 原型文档
-[yuanxing]:www.baidu.com
+[普通链接](https://www.mdeditor.com/)
 ## 口头操作说明
 ********
 # 产品使用关键的api接口与api的输出、输入展示
