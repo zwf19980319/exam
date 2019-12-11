@@ -70,6 +70,7 @@
 ![市场](https://images.gitee.com/uploads/images/2019/1211/120036_4c2efb79_1648159.png "界面设计2.png")
 ![信息设计2](https://images.gitee.com/uploads/images/2019/1211/123040_ebfdc222_1648159.png "信息设计2.png")
 ## 原型文档
+[yuanxing]:www.baidu.com
 ## 口头操作说明
 ********
 # 产品使用关键的api接口与api的输出、输入展示
