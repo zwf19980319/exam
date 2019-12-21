@@ -157,7 +157,11 @@ if response:
 
 ## 使用比较分析
 * 车型识别比较
-- 百度车型识别API
+    * [百度车型识别API](https://ai.baidu.com/ai-doc/VEHICLE/Ik3hb3lwt)
+    ![车型价格](https://images.gitee.com/uploads/images/2019/1222/004456_20f3f437_1648159.png "车型识别价格百度AI.png")
+    * [阿里车型识别API：](https://market.aliyun.com/products/57124001/cmapi032754.html?spm=5176.730005.productlist.d_cmapi032754.5afc3524lDp1C8&innerSource=search_%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB#sku=yuncode2675400001)
+    ![阿里云车型](https://images.gitee.com/uploads/images/2019/1222/005132_77cb822a_1648159.png "阿里云.png")
+
 
 
 
