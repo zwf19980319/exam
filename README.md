@@ -98,7 +98,7 @@
 ********
 # 产品使用关键的api接口与api的输出、输入展示
 ## 使用水平
-* 百度车型识别API
+* 百度车型识别API代码
 ``` python
 # encoding:utf-8
 
@@ -123,7 +123,13 @@ if response:
     print (response.json())
     
 ```
-* 百度车辆检测API
+* 车型识别准确度（输出）
+雪铁龙Survolt：准确度60%
+```
+{'log_id': 1693662610197928885, 'location_result': {'width': 1459.129516601562, 'top': 117.0717544555664, 'height': 796.3026733398438, 'left': 251.0002899169922}, 'result': [{'score': 0.5252830386161804, 'name': '雪铁龙Survolt', 'year': '2013'}, {'score': 0.09130119532346725, 'name': 'nanoFlowcellQUANTE', 'year': '2015'}, {'score': 0.02750954777002335, 'name': '标致VisionGranTurismo', 'year': '2015'}, {'score': 0.02313795313239098, 'name': '标致EX1', 'year': '2010'}, {'score': 0.01672195456922054, 'name': '丰田凯美瑞', 'year': '2018'}], 'color_result': '黑色'}
+```
+
+* 百度车辆检测API代码下载
 ```
 # encoding:utf-8
 
