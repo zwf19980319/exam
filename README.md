@@ -174,6 +174,42 @@ if response:
 
 价格：百度>阿里云。百度车型识别API每天会提供500次免费调用额度。阿里云【图像识别】车型识别只有100次的免费调用额度，之后的收费都是在两者者中最贵的，性价比也是最低的。
 
+## 加分项
+动物识别代码片段
+``` python
+# encoding:utf-8
+import requests 
+
+# client_id 为官网获取的AK， client_secret 为官网获取的SK
+host = 'https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=NZBPl7VSgx8rsXxkGHNnmD4b&client_secret=7EwVflxRqshT8rukY3RksBFzYBXNBUwP'
+response = requests.get(host)
+if response:
+    print(response.json())
+
+# encoding:utf-8
+
+import requests
+import base64
+
+'''
+车型识别
+'''
+
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/car"
+# 二进制方式打开图片文件
+f = open('timg.jfif', 'rb')
+img = base64.b64encode(f.read())
+
+params = {"image":img,"top_num":5}
+access_token = '[24.96bf3cd09ed0422fbf9744f27242e77c.2592000.1579533449.282335-18081637]'
+request_url = request_url + "?access_token=" + access_token
+headers = {'content-type': 'application/x-www-form-urlencoded'}
+response = requests.post(request_url, data=params, headers=headers)
+if response:
+    print (response.json())
+    
+```
+
 
 
 
