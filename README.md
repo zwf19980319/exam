@@ -98,8 +98,60 @@
 ********
 # 产品使用关键的api接口与api的输出、输入展示
 ## 使用水平
-## 使用比较分析
-## 使用后风险报告
-## 加分项
+* 百度车型识别API
+``` python
+# encoding:utf-8
+
+import requests
+import base64
+
+'''
+车型识别
+'''
+
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/car"
+# 二进制方式打开图片文件
+f = open('timg.jfif', 'rb')
+img = base64.b64encode(f.read())
+
+params = {"image":img,"top_num":5}
+access_token = '[24.96bf3cd09ed0422fbf9744f27242e77c.2592000.1579533449.282335-18081637]'
+request_url = request_url + "?access_token=" + access_token
+headers = {'content-type': 'application/x-www-form-urlencoded'}
+response = requests.post(request_url, data=params, headers=headers)
+if response:
+    print (response.json())
+    
+```
+* 百度车辆检测API
+```
+# encoding:utf-8
+
+import requests
+import base64
+
+'''
+车辆检测
+'''
+
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/vehicle_detect"
+# 二进制方式打开图片文件
+f = open('多部车.jfif', 'rb')
+img = base64.b64encode(f.read())
+
+params = {"image":img}
+access_token = '[24.3a8761586095cec2b117dcf2688200cb.2592000.1579534874.282335-18081637]'
+request_url = request_url + "?access_token=" + access_token
+headers = {'content-type': 'application/x-www-form-urlencoded'}
+response = requests.post(request_url, data=params, headers=headers)
+if response:
+    print (response.json())
+
+```
+
+## 
+
+
+
 
 
