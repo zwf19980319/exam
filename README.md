@@ -154,6 +154,8 @@ if response:
     print (response.json())
 
 ```
+* 百度车辆检测API输出结果
+![输出车辆检测](https://images.gitee.com/uploads/images/2019/1222/230513_b5a27e10_1648159.png "屏幕截图.png")
 * 百度语音合成API代码
 ``` python
 import sys
@@ -277,6 +279,7 @@ if __name__ == '__main__':
    * 输出结果
    ![语音合成](https://images.gitee.com/uploads/images/2019/1222/155122_94ae0e12_1648159.png "屏幕截图.png")
     
+   * 车辆检测代码（输入）
 
 ## 使用比较分析
 * 车型识别比较
