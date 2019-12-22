@@ -288,6 +288,21 @@ if __name__ == '__main__':
     * [阿里车型识别API：](https://market.aliyun.com/products/57124001/cmapi032754.html?spm=5176.730005.productlist.d_cmapi032754.5afc3524lDp1C8&innerSource=search_%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB#sku=yuncode2675400001)
     ![阿里云车型](https://images.gitee.com/uploads/images/2019/1222/005132_77cb822a_1648159.png "阿里云.png")
     
+* 车辆检测比较
+    * [百度车辆检测API](https://ai.baidu.com/ai-doc/VEHICLE/Ik3hb3lwt)
+    ![前500侧](https://images.gitee.com/uploads/images/2019/1222/231244_1fa849e7_1648159.png "屏幕截图.png")
+    ![输入图片说明](https://images.gitee.com/uploads/images/2019/1222/231328_fbb1283e_1648159.png "屏幕截图.png")
+    
+    * [阿里云车辆检测API]()
+    
+ * 语音合成比较
+     * [百度语音合成API](https://ai.baidu.com/ai-doc/SPEECH/Nk38y8pjq)
+     ![百度云 语音合成](https://images.gitee.com/uploads/images/2019/1222/232022_682239e4_1648159.png "屏幕截图.png")
+     
+     
+     * [阿里云语音合成API](https://help.aliyun.com/document_detail/84881.html?spm=5176.12061040.1251723..1ed64779f0dI1F)
+     ![阿里云语音合成](https://images.gitee.com/uploads/images/2019/1222/231852_029262aa_1648159.png "屏幕截图.png")
+    
 ## 使用后风险报告
 ||百度云|阿里云|腾讯云|
 |-|------|------|-------|
