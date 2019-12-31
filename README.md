@@ -95,7 +95,7 @@
 ![市场](https://images.gitee.com/uploads/images/2019/1211/120036_4c2efb79_1648159.png "界面设计2.png")
 ![信息设计2](https://images.gitee.com/uploads/images/2019/1211/123040_ebfdc222_1648159.png "信息设计2.png")
 ## 原型文档
-[普通链接](https://www.mdeditor.com/)
+[原型]http://nfunm171013102.gitee.io/car_app_prototype)
 ## 口头操作说明
 ********
 # 产品使用关键的api接口与api的输出、输入展示
@@ -335,6 +335,7 @@ if __name__ == '__main__':
 * [百度语音合成API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [车辆识别API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.keep)
 * [车辆检测API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8BAI)
+* [原型]http://nfunm171013102.gitee.io/car_app_prototype)
 
 
 
