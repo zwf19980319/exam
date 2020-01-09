@@ -100,8 +100,6 @@
 ![信息设计2](https://images.gitee.com/uploads/images/2019/1211/123040_ebfdc222_1648159.png "信息设计2.png")
 ## 原型文档
 * [原型](http://nfunm171013102.gitee.io/vehicle_prototype)
-## 口头操作说明
-********
 ## PPT20×20
 ![PPT20×20](https://github.com/zwf19980319/exam/blob/master/API20%C3%9720.pptx)
 
