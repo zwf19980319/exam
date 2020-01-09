@@ -87,6 +87,7 @@
 
 
 # 原型
+* [原型](http://nfunm171013102.gitee.io/vehicle_prototype)
 ## 交互及界面设计
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1211/120556_3f3157f1_1648159.png "信息设计.png")
 
@@ -335,7 +336,7 @@ if __name__ == '__main__':
 * [百度语音合成API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [车辆识别API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.keep)
 * [车辆检测API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8BAI)
-* [原型]http://nfunm171013102.gitee.io/car_app_prototype)
+* [原型](http://nfunm171013102.gitee.io/vehicle_prototype)
 
 
 
