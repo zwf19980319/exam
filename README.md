@@ -332,7 +332,7 @@ if __name__ == '__main__':
 * 由此观之，百度语音合成是相对于没有阿里云语音合成发展的成熟，但是依据性价比比较分析，百度语音合成还是较为高的。因为价格方面还是比较低，而且功能较为支持平民使用。
 
 
-## 加分项
+## 加分项（如若不高清，上方还有代码模块输出和输入）
 * [百度语音合成API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E7%99%BE%E5%BA%A6%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90)
 * [车辆识别API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.keep)
 * [车辆检测API代码片段](https://gitee.com/NFUNM171013102/car_app_prototype/blob/master/code/%E8%BD%A6%E8%BE%86%E6%A3%80%E6%B5%8BAI)
